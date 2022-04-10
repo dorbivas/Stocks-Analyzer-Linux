@@ -5,7 +5,7 @@ int main(int argc, char** argv)
 {
  	int size = argc - 1;
 	//string names[size];
-	vector<string> names;
+	vector<string> names; 
 
 	if (argc < 2)
 	{

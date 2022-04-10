@@ -1,4 +1,4 @@
-Linux Ex01 Dor Bivas 315557850 Lion 322442419
+Dor Bivas & Lion gordovsky 
 
 Notes:
 Q1 and Q2 will retrive from the API, the Data (both will fatch the stocks and the eps data)

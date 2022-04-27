@@ -1,4 +1,4 @@
-Dor Bivas & Lion gordovsky 
+Dor Bivas & Lion Golovanevsky
 
 Notes:
 Q1 and Q2 will retrive from the API, the Data (both will fatch the stocks and the eps data)
